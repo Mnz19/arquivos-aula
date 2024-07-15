@@ -1,0 +1,55 @@
+Introduzir a aula
+Explicar diferença entre GIT X GITHUB
+
+EXPLICAR AS BRANCHS 
+MOSTRAR GRAFICO DOS COMANDOS
+
+IR PARA VSCODE REALIZAR OS COMANDOS
+COMANDOS:
+
+Criar repositório git (Opcional) | git init
+
+git clone url
+
+adicionar arquivos ou criar 
+
+git add .
+
+git commit -m ""
+
+git log
+
+git branch
+
+git switch -c nome
+
+git switch main
+
+criar arquivo na branch dev
+
+adicionar e commitar
+
+git add . 
+git commit -m ""
+
+realizar alterações
+
+usar git restore .
+
+git status
+
+git branch teste
+
+git branch -d teste
+
+git branch
+
+ir para a branch dev e realizar o merge com a main
+
+apos isso comecar a falar de django e fala para um usar o repositorio que criou ou 
+
+
+
+
+
+
